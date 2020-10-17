@@ -9,7 +9,7 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-family:  Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
 button {
@@ -21,7 +21,7 @@ button {
   margin-bottom: 15px;
   color: white;
   border: none;
-  border-radius: 3px;
+  border-radius: 20px;
 }
 img {
   max-width: 500px;
@@ -38,6 +38,7 @@ input {
   width: 350px;
   margin: auto;
   margin-bottom: 15px;
+  border-radius: 20px;
 }
 h1 {
   text-align: center;
