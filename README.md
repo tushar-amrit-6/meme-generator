@@ -2,4 +2,5 @@
 
 # React Meme Generator
 A React Web App which uses imgflip API to render memes and allow user to write captions according to the number of caption boxes on the picture
+<br>
 [Link to the Web App](https://memes--generator.herokuapp.com/)
